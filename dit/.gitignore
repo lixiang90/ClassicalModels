@@ -1,0 +1,6 @@
+# Model checkpoints
+vae.pt
+dit.pt
+
+# Inference results
+dit_inference_results/

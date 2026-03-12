@@ -33,3 +33,4 @@ https://huggingface.co/hugfaceguy0001/SmallDiT/blob/main/vae.pt
 python inference_vae.py --model_path "your vae model path" --image_path "your image path" --output_path "path to save reconstruction result" --device "cuda or cpu"
 ```
 
+### DiT
