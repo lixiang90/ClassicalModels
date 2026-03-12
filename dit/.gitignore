@@ -4,3 +4,8 @@ dit.pt
 
 # Inference results
 dit_inference_results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
