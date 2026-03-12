@@ -15,5 +15,7 @@ Please download ImageNet into `dit/imagenet-dataset` folder.
 
 Variational AutoEncoder. Using for image compression in DiT. 
 
-Diederik P Kingma, Max Welling, "Auto-Encoding Variational Bayes", arxiv: 1312.6114
-Carl Doersch, "Tutorial on Variational Autoencoders", arxiv: 1606.05908
+References: 
+
+1. Diederik P Kingma, Max Welling, "Auto-Encoding Variational Bayes", arxiv: 1312.6114
+2. Carl Doersch, "Tutorial on Variational Autoencoders", arxiv: 1606.05908
