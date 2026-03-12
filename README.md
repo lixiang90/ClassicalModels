@@ -19,3 +19,7 @@ References:
 
 1. Diederik P Kingma, Max Welling, "Auto-Encoding Variational Bayes", arxiv: 1312.6114
 2. Carl Doersch, "Tutorial on Variational Autoencoders", arxiv: 1606.05908
+
+### DiT
+
+Diffusion Transformer.
